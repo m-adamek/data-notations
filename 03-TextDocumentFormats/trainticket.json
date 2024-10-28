@@ -1,0 +1,9 @@
+{
+    "departure": "14:30",
+    "platform": 3,
+    "seat": 10,
+    "destination": "Berlin",
+    "from": "Warsaw",
+    "date": "23 May",
+    "train": "IC3110"
+}

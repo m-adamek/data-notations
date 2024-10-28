@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Huawei" model="P20 Pro" releaseYear="2018">
+        <specs>
+            <screenSize unit="inch">6.1</screenSize>
+            <batteryCapacity unit="mAh">4000</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">40</camera>
+        </specs>
+        <price currency="USD">300</price>
+    </smartphone>
 </smartphones>

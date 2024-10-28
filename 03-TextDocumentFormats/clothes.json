@@ -53,5 +53,25 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {   "name": "Cropp",
+        "founded": 2004,
+        "headquarters": "Gdańsk, Poland",
+        "employees": 4200,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+        ]
+    },
+    {   "name": "House",
+        "founded": 2001,
+        "headquarters": "Gdańsk, Poland",
+        "employees": 5000,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+    ]
     }
 ]
