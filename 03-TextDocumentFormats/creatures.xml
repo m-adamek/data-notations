@@ -13,6 +13,7 @@
             <power>Flight</power>
             <power>Fire breath</power>
         </powers>
+    </creature>
     <creature name="Unicorn" habitat="Forests" lifespan="centuries">
         <description>A magical horse with a single, spiraling horn.</description>
         <powers>

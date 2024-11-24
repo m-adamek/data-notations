@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transport>
-    <bus></bus>
-    <tram></tram>
-    <train></train>
+    <bus lines="702" id_number="HY45">
+        <speed>40km/h</speed>
+        <carbonfootprint>low</carbonfootprint>
+        <price>2zł</price>
+        <distance>short distance</distance>
+    </bus>
+    <tram lines="14" id_number="RY245">
+        <speed>45km/h</speed>
+        <carbonfootprint>low</carbonfootprint>
+        <price>2zł</price>
+        <distance>short distance</distance>
+    </tram>
+    <train lines="30" id_number="IC145">
+        <speed>50km/h</speed>
+        <carbonfootprint>low</carbonfootprint>
+        <price>18zł</price>
+        <distance>long distance</distance>
+    </train>
 </transport>
