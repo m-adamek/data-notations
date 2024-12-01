@@ -30,8 +30,8 @@
             <property>Side Length</property>
         </properties>
         <formulas>
-            <area>side^2 * 6</area>
-            <perimeter>12 * side </perimeter>
+            <surfaceArea>6 * side^2</surfaceArea>
+            <volume>side^3</volume>
         </formulas>
     </figure>
 </geometricFigures>
